@@ -1,2 +1,2 @@
 Description:
-Memory test
+Memory test: Alloc memory from the system and prints how much memory we are using.
